@@ -16,6 +16,7 @@ Repo to collect my recipes
 - [Sweet Brioche French Toast](brioche-french-toast.md)
 - [Simple Crepes](simple-crepes.md)
 - [Old-Timey Biscuits](old-timey-biscuits.md)
+- [Almond Flour Pancakes (Crispy-Edge Style)](almond-flour-pancakes.md)
 
 ### Healthy & Low-Carb
 - [Chicken Salad Lettuce Wraps](chicken-salad-lettuce-wraps.md)
@@ -24,6 +25,9 @@ Repo to collect my recipes
 
 ### Snacks & Appetizers
 - [Armadillo Eggs (Florida-Style Scotch Eggs)](armadillo-eggs.md)
+
+### Desserts & Sweets
+- [Mini Almond Flour Pie Crusts](mini-almond-flour-pie-crusts.md)
 
 ### Sauces & Condiments
 - [Restaurant-Style Salsa](restaurant-style-salsa.md)
