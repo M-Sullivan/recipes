@@ -49,3 +49,22 @@
 
 ## Serves
 - 3-4 people
+
+## Shopping List
+
+### Dairy
+- Milk (maybe 1 1/2 ~ 2 cups?)
+- Mozzarella Cheese - 2 or more cups
+- Parmesan Cheese - 1-2 cups
+- Butter - 4 tbsp
+
+### Pantry Items
+- Flour - 4 tbsp
+- Nutmeg
+- Garlic (fresh or powder)
+- Salt
+- Pepper
+
+### Pasta & Fresh Herbs
+- Noodles - 1 box (linguine preferred)
+- Parsley - optional (1 fist full)
