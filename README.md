@@ -17,6 +17,7 @@ Repo to collect my recipes
 - [Simple Crepes](simple-crepes.md)
 - [Old-Timey Biscuits](old-timey-biscuits.md)
 - [Almond Flour Pancakes (Crispy-Edge Style)](almond-flour-pancakes.md)
+- [Mini Egg Cups (Ham, Cheese & Spinach)](mini-egg-cups.md)
 
 ### Healthy & Low-Carb
 - [Chicken Salad Lettuce Wraps](chicken-salad-lettuce-wraps.md)
@@ -33,4 +34,5 @@ Repo to collect my recipes
 - [Restaurant-Style Salsa](restaurant-style-salsa.md)
 
 ### Meal Planning
+- [Complete Meal Planning Guide](meal-planning/meal-planning.md) - Comprehensive 17-section guide covering everything from getting started to advanced strategies
 - [Healthy Meal Prep Lunch Suggestions](suggestions.md)
